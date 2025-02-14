@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3",
+    "avalanche": "^3.8.5",
+    "express": "^4.19.2",
+    "helia": "^4.1.0",
+    "keygen": "^0.4.0",
+    "solana": "^1.0.7-development",
+    "sqlite3": "^5.1.7",
+    "web3": "^4.12.1"
+  }
+}
